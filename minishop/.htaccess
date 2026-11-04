@@ -1,0 +1,5 @@
+# Không cho xem danh sách tệp khi thư mục không có index
+Options -Indexes
+
+# Trang báo lỗi 404 riêng (trên hosting đổi thành /404.php)
+ErrorDocument 404 /minishop/project/404.php
